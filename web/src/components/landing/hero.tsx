@@ -54,7 +54,7 @@ export function Hero() {
           <ArrowRight className="size-4 transition-transform group-hover:translate-x-0.5" />
         </Link>
         <a
-          href="https://github.com/0xMudit/Clara-Network"
+          href="https://github.com/BerlinDeskMudit/clara-payment-network"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 rounded-xl border px-5 py-2.5 text-sm font-semibold transition-all hover:-translate-y-0.5 hover:bg-muted/50"

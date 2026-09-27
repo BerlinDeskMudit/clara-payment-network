@@ -28,10 +28,10 @@ responsibly. **Do not open a public GitHub issue for security vulnerabilities.**
 ### How to report
 
 1. **Email** — Send a description to the maintainer at
-   <https://github.com/0xMudit> via GitHub's private contact feature (click
+   <https://github.com/BerlinDeskMudit> via GitHub's private contact feature (click
    "Security" on the profile page).
 2. **GitHub Security Advisories** — Use the
-   [Security Advisories](https://github.com/0xMudit/Clara-Network/security/advisories/new)
+   [Security Advisories](https://github.com/BerlinDeskMudit/clara-payment-network/security/advisories/new)
    feature for private disclosure.
 
 ### What to include

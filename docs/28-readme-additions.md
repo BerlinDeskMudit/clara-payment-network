@@ -8,11 +8,11 @@ into the README at your discretion.**
 ## Badges (add after the `# Clara Network` heading)
 
 ```markdown
-[![CI](https://github.com/0xMudit/Clara-Network/actions/workflows/ci.yml/badge.svg)](https://github.com/0xMudit/Clara-Network/actions/workflows/ci.yml)
-[![CodeQL](https://github.com/0xMudit/Clara-Network/actions/workflows/codeql.yml/badge.svg)](https://github.com/0xMudit/Clara-Network/actions/workflows/codeql.yml)
+[![CI](https://github.com/BerlinDeskMudit/clara-payment-network/actions/workflows/ci.yml/badge.svg)](https://github.com/BerlinDeskMudit/clara-payment-network/actions/workflows/ci.yml)
+[![CodeQL](https://github.com/BerlinDeskMudit/clara-payment-network/actions/workflows/codeql.yml/badge.svg)](https://github.com/BerlinDeskMudit/clara-payment-network/actions/workflows/codeql.yml)
 [![Go Version](https://img.shields.io/badge/go-1.26+-00ADD8?logo=go)](https://go.dev/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
-[![Open Issues](https://img.shields.io/github/issues/0xMudit/Clara-Network)](https://github.com/0xMudit/Clara-Network/issues)
+[![Open Issues](https://img.shields.io/github/issues/BerlinDeskMudit/clara-payment-network)](https://github.com/BerlinDeskMudit/clara-payment-network/issues)
 ```
 
 ---
@@ -28,10 +28,10 @@ improving documentation, or helping with translations — we'd love your help.
 - **New to the project?** Start with the [Contributing Guide](CONTRIBUTING.md)
   and the [Contributor Architecture Guide](docs/28-contributor-architecture-guide.md).
 - **Looking for something to work on?** Check
-  [good first issues](https://github.com/0xMudit/Clara-Network/labels/good%20first%20issue)
+  [good first issues](https://github.com/BerlinDeskMudit/clara-payment-network/labels/good%20first%20issue)
   and the [Roadmap](ROADMAP.md).
 - **Have a question?** Open a
-  [Discussion](https://github.com/0xMudit/Clara-Network/discussions).
+  [Discussion](https://github.com/BerlinDeskMudit/clara-payment-network/discussions).
 - **Found a security issue?** See [SECURITY.md](SECURITY.md) for responsible
   disclosure instructions.
 

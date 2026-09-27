@@ -4,7 +4,7 @@ import { Landmark, Star } from "lucide-react";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { GithubIcon } from "./github-icon";
 
-const GITHUB_URL = "https://github.com/0xMudit/Clara-Network";
+const GITHUB_URL = "https://github.com/BerlinDeskMudit/clara-payment-network";
 
 export function LandingHeader() {
   return (

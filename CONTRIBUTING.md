@@ -32,7 +32,7 @@ you agree to uphold it.
 
 ```sh
 # Clone the repo
-git clone https://github.com/0xMudit/Clara-Network.git
+git clone https://github.com/BerlinDeskMudit/clara-payment-network.git
 cd Clara-Network
 
 # Run the full stack
@@ -144,7 +144,7 @@ clara-network/
 ├── web/                        # Next.js admin dashboard frontend
 ├── Dockerfile                  # Multi-stage build for every cmd
 ├── Makefile                    # Build/test/vet/run convenience targets
-└── go.mod                      # Module: github.com/0xMudit/Clara-Network
+└── go.mod                      # Module: github.com/BerlinDeskMudit/clara-payment-network
 ```
 
 ## Build Phases and Code Map
@@ -383,10 +383,10 @@ A pull request is considered complete when:
 
 ## Finding Things to Work On
 
-- **Good first issues** are tagged [`good first issue`](https://github.com/0xMudit/Clara-Network/labels/good%20first%20issue) on GitHub.
-- **Help wanted** issues are tagged [`help wanted`](https://github.com/0xMudit/Clara-Network/labels/help%20wanted).
+- **Good first issues** are tagged [`good first issue`](https://github.com/BerlinDeskMudit/clara-payment-network/labels/good%20first%20issue) on GitHub.
+- **Help wanted** issues are tagged [`help wanted`](https://github.com/BerlinDeskMudit/clara-payment-network/labels/help%20wanted).
 - Check the [ROADMAP.md](ROADMAP.md) for planned features.
-- Browse the [open issues](https://github.com/0xMudit/Clara-Network/issues)
+- Browse the [open issues](https://github.com/BerlinDeskMudit/clara-payment-network/issues)
   for bugs and feature requests.
 
 ### High-impact contribution areas
@@ -403,8 +403,8 @@ A pull request is considered complete when:
 
 ## Getting Help
 
-- **Issues** — [GitHub Issues](https://github.com/0xMudit/Clara-Network/issues)
-- **Discussions** — [GitHub Discussions](https://github.com/0xMudit/Clara-Network/discussions)
-- **Security** — [Security Advisories](https://github.com/0xMudit/Clara-Network/security/advisories/new)
+- **Issues** — [GitHub Issues](https://github.com/BerlinDeskMudit/clara-payment-network/issues)
+- **Discussions** — [GitHub Discussions](https://github.com/BerlinDeskMudit/clara-payment-network/discussions)
+- **Security** — [Security Advisories](https://github.com/BerlinDeskMudit/clara-payment-network/security/advisories/new)
 
 Thank you for helping build open payment infrastructure! 🚀

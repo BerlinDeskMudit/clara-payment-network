@@ -151,7 +151,7 @@ a full operational tool.
 
 ## How to suggest features
 
-Open a [Feature Request](https://github.com/0xMudit/Clara-Network/issues/new?template=feature_request.md)
+Open a [Feature Request](https://github.com/BerlinDeskMudit/clara-payment-network/issues/new?template=feature_request.md)
 on GitHub with the details of what you'd like to see.
 
 ## How to contribute to roadmap items

@@ -47,7 +47,7 @@ clara-network/
 └── Makefile                     # build/test/vet/run-<sim> targets
 ```
 
-Module `github.com/0xMudit/Clara-Network`, Go `1.25`. Direct dependencies
+Module `github.com/BerlinDeskMudit/clara-payment-network`, Go `1.25`. Direct dependencies
 are only `github.com/jackc/pgx/v5` (optional PostgreSQL) and
 `github.com/redis/go-redis/v9` (optional Redis).
 
